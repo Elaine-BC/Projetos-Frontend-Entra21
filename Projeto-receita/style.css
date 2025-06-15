@@ -1,0 +1,30 @@
+body{ margin: 0;
+background-color: rgb(240, 194, 134);;}
+
+h1{ color: rgb(94, 5, 5);
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+font-size: x-large;
+padding: 50px 10px 10px 10px;}
+
+h3{ color: rgb(56, 4, 4);
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+padding: 10px 1000px;}
+
+.grupo1{text-align: center; }
+
+
+.grupo3{ text-align: center;
+font-size: x-large;}
+
+table {
+    margin: auto;
+    border: 1px double;
+    border-collapse: collapse;
+  }
+
+  td, th { font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    border: 1px double;
+    padding: 20px;}
